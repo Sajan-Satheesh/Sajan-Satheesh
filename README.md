@@ -1,6 +1,6 @@
-### Hi there 👋
+#### Hi there 👋, Welcome to my page!
 
-**Sajan-Satheesh/Sajan-Satheesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![GitHub top language](https://img.shields.io/github/languages/top/Sajan-Satheesh/VE2?color=a&label=C%2B%2B&logo=a&logoColor=blue&style=for-the-badge)
 
 
 <!--
